@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Alata&family=Lato:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap');
+* { font-family: 'Lato', sans-serif; font-weight: 300; }
+h1, h2, h3, h4, h5, h6 { font-family: 'Alata', sans-serif; letter-spacing: -0.05em; }
+
+:root {
+    --auto-palette-color-1: rgba(255,255,255,1.0);
+    --auto-palette-color-10: rgba(0,0,0,1.0);
+    --auto-palette-color-2: rgba(61,61,61,1.0);
+    --auto-palette-color-3: rgba(21,28,32,1.0);
+    --auto-palette-color-4: rgba(112,112,112,1.0);
+    --auto-palette-color-5: rgba(119,119,119,0.490196078431);
+    --auto-palette-color-6: rgba(255,255,255,0.870588235294);
+    --auto-palette-color-7: rgba(220,240,79,1.0);
+    --auto-palette-color-8: rgba(225,225,225,1.0);
+    --auto-palette-color-9: rgba(104,214,184,1.0);
+  }
+
+#form-ebook {
+    background: rgba(191,191,191,1.0);
+}
+
+/*#home h1 { text-transform: uppercase; }
+.img-fluid, .depoimento1, .depoimento2, .depoimento3 { border-radius: 1em; }
+.corfundo { color: #fff; }
+/* </Alterações> */
