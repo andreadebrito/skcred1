@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+sitemap: https://skcred.com.br/sitemap.xml
