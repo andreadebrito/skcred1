@@ -1,10 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Alata&family=Lato:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap');
 * { font-family: 'Lato', sans-serif; font-weight: 300; }
 h1, h2, h3, h4, h5, h6 { font-family: 'Alata', sans-serif; letter-spacing: -0.05em; }
-#home h1 { text-transform: uppercase; }
-.img-fluid, .depoimento1, .depoimento2, .depoimento3 { border-radius: 1em; }
-.corfundo { color: #fff; }
-/* </Alterações> */
+
 
 :root {
 /* Colors: */
