@@ -13,7 +13,7 @@ h1, h2, h3, h4, h5, h6, p {
 }
 
 ul {
-	list-style-type: none;
+	list-style-type:none;
 }
 
 .titulo{
@@ -46,7 +46,7 @@ ul {
 	background: #FFFFFF 0% 0% no-repeat padding-box;
 	border: 1px solid #707070;
 	opacity: 1;
-	
+
 }
 .caixaform{
 	top: 644px;
@@ -109,7 +109,7 @@ ul {
 	padding: 50px;
 }
 
-/*---- Pagina thank-you----*/
+/---- Pagina thank-you----/
 
 #obrigadx{
 color: #6346E6;
@@ -123,4 +123,3 @@ font-size: 50px;
 .formthank {
 	width: 150px;
 }
-
