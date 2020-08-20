@@ -1,34 +1,126 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap');
 
 font-family: 'Montserrat', sans-serif; font-weight: 300; 
-h1, h2, h3, h4, h5, h6 { 
+
+
+h1, h2, h3, h4, h5, h6, p { 
 	font-family: 'Alata', sans-serif; letter-spacing: -0.05em; 
+	color: #151C20;
+}
+
+.p1{
+	font-size: 30px ;
+}
+
+ul {
+	list-style-type: none;
+}
+
+.titulo{
+	font-size: 40px;
 }
 #bg { 
 	background-color: #FBFBFB;
 	color: #151C20;
 }
-
-.img-fluid, .depoimento { border-radius: 1em; }
-
-
-#capa h1 { text-transform: uppercase;}
-
+#bgthankyou { 
+	background-color: #FFFFFF;
+	color: #151C20;
+}
+#capa h1 { 
+	text-transform: uppercase;
+	font-size: 52px;
+	text-align: center;
+	color: #6346E6;
+}
 .caixa {
 	padding: 60px 0;
-	border-bottom: 1px solid #e5e5e5;
 }
-
+.caixadepoimentos {
+	padding: 100px 0;
+	box-shadow: 8px 8px 0px;
+}
+.customform{
+	padding: 30px;
+	margin: 30px 30px 30px 30px;
+	background: #FFFFFF 0% 0% no-repeat padding-box;
+	border: 1px solid #707070;
+	opacity: 1;
+	
+}
+.caixaform{
+	top: 644px;
+	left: 648px;
+	width: 543px;
+	height: 361px;
+	background: #FFFFFF 0% 0% no-repeat padding-box;
+	border: 1px solid #707070;
+	opacity: 1;
+}
 .depoimento{
 	border: 2px solid grey;
 	padding: 20px;
 }
-
 .aspas{
 	font-size: 25px;
 }
 
 .altura {
 	height: 400px;
+}
+.botao1 {
+	background-color: #6346E6 ;
+	font-weight: 600;
+	padding:15px;
+	border: none;
+	border-radius: 5px;
+	color: white;
+	font-size:19px;
+}
+.botao1:hover {
+	background-color: #1d19b3;
+}
+
+.botao2 {
+	background-color: #DCF04F;
+	border: none;
+	color:#6346e6 ;
+	font-weight: 600;
+	padding:15px;
+	border-radius: 5px;
+	font-size:19px;
+}
+
+.botao2:hover {
+	background-color: #ffffff;
+	border-radius: 5px;
+	font-size:19px;
+	
+}
+
+.ultima{
+	background: #6346E6;
+	margin:auto ;
+	padding: 80px ;
+	text-align: center;
+}
+
+.rodape {
+	padding: 50px;
+}
+
+/*---- Pagina thank-you----*/
+
+#obrigadx{
+color: #6346E6;
+font-size: 50px;
+}
+
+.p50px{
+	font-size:50px;
+}
+
+.formthank {
+	width: 150px;
 }
 
